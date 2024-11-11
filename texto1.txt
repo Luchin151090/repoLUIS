@@ -3,3 +3,10 @@ int x = 4
 CAMBIO NUEVO 12345
 
 Cambio al archivo de Lucho
+
+clase:
+clase Lucho{
+    int edad;
+    float altura;
+    Lucho(edad, altura);
+}
