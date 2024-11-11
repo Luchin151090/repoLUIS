@@ -8,6 +8,5 @@ clase:
 clase Lucho{
     int edad;
     float altura;
-    float peso;
-    Lucho(edad, altura,peso);
+    Lucho(edad, altura);
 }
